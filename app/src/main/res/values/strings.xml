@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">GoTravel</string>
+    <string name="aramaKismi">search...</string>
+    <string name="populer">Populer Place</string>
+    <string name="viewAll">View All</string>
+    <string name="tatilPara1">$ 25.00</string>
+    <string name="tatilPara2">$ 45.00</string>
+    <string name="tatilPara3">$ 35.00</string>
+    <string name="tatilPara4">$ 79.00</string>
+    <string name="tatilYazi">Find Your Palce</string>
+    <string name="buttonYazi">Explore Now</string>
+
+</resources>
